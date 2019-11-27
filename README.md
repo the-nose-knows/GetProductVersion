@@ -3,4 +3,4 @@ A simple unicode-friendly console app to get the value of `ProductVersion` from 
 
 ## Example use: 
 `GetProductVersion.exe "C:\Windows\System32\notepad.exe"` 
-> `10.0.17763.1`
+> 10.0.17763.1
